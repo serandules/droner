@@ -1,0 +1,6 @@
+{
+    "name": "droner",
+    "dependencies": {
+        "rimraf": "2.3.1"
+    }
+}
