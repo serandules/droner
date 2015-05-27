@@ -1,6 +1,12 @@
 {
     "name": "droner",
+    "version": "0.0.0",
+    "description": "droner",
     "dependencies": {
         "rimraf": "2.3.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/serandules/droner.git"
     }
 }
