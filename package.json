@@ -3,8 +3,8 @@
     "version": "0.0.0",
     "description": "droner",
     "dependencies": {
-        "logger": "serandules/logger#master",
-        "rimraf": "2.3.1"
+        "rimraf": "2.*",
+        "logger": "serandules/logger#master"
     },
     "repository": {
         "type": "git",
