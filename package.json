@@ -4,6 +4,7 @@
     "description": "droner",
     "dependencies": {
         "rimraf": "2.*",
+        "async": "1.*",
         "logger": "serandules/logger#master"
     },
     "repository": {
